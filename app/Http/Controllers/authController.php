@@ -28,6 +28,7 @@ class authController extends Controller
     public function store(Request $request)
     {
         //
+        $hi = 'fjdlks';
     }
 
     /**
